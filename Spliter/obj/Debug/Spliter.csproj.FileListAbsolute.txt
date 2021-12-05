@@ -1,0 +1,10 @@
+F:\Projects\visual studio 2019\Spliter\Spliter\bin\Debug\Spliter.exe.config
+F:\Projects\visual studio 2019\Spliter\Spliter\bin\Debug\Spliter.exe
+F:\Projects\visual studio 2019\Spliter\Spliter\bin\Debug\Spliter.pdb
+F:\Projects\visual studio 2019\Spliter\Spliter\obj\Debug\Spliter.csprojAssemblyReference.cache
+F:\Projects\visual studio 2019\Spliter\Spliter\obj\Debug\Spliter.Form1.resources
+F:\Projects\visual studio 2019\Spliter\Spliter\obj\Debug\Spliter.Properties.Resources.resources
+F:\Projects\visual studio 2019\Spliter\Spliter\obj\Debug\Spliter.csproj.GenerateResource.cache
+F:\Projects\visual studio 2019\Spliter\Spliter\obj\Debug\Spliter.exe
+F:\Projects\visual studio 2019\Spliter\Spliter\obj\Debug\Spliter.pdb
+F:\Projects\visual studio 2019\Spliter\Spliter\obj\Debug\Spliter.resultShow.resources
